@@ -1,0 +1,16 @@
+.box {
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    background-color: #3498db;
+    color: white;
+    text-align: center;
+    line-height: 200px;
+    font-family: Arial, sans-serif;
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  .box:hover {
+    transform: rotate(45deg) scale(1.2);
+  }
+ 
